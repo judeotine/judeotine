@@ -5,6 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judeotine&label=Profile%20views&color=0e75b6&style=flat" alt="judeotine" /> </p>
+  
 
 - 🔭 I’m currently working on **A blockchain-based business automation system**
 
@@ -20,8 +21,10 @@
 
 - 📄 Know about my experiences [https://judeotine.vercel.app/](https://judeotine.vercel.app/)
 
-- ⚡ Fun fact **There are around 700 programming languages**
-  [![committers.top badge](https://user-badge.committers.top/uganda/USERNAME.svg)](https://user-badge.committers.top/uganda/judeotine)
+- ⚡ Fun fact **There are around 700 programming languages
+  [![committers.top badge](https://user-badge.committers.top/uganda/judeotine.svg)](https://user-badge.committers.top/uganda/judeotine)
+ 
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
