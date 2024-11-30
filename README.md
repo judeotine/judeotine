@@ -21,6 +21,7 @@
 - 📄 Know about my experiences [https://judeotine.vercel.app/](https://judeotine.vercel.app/)
 
 - ⚡ Fun fact **There are around 700 programming languages**
+  [![committers.top badge](https://user-badge.committers.top/uganda/USERNAME.svg)](https://user-badge.committers.top/uganda/judeotine)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
