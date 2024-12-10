@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judeotine&label=Profile%20views&color=0e75b6&style=flat" alt="judeotine" /> </p>
   
 
-- 🔭 I’m currently working on **A blockchain-based business automation system**
+- 🔭 I’m currently working on **An anime telegram bot**
 
 - 🌱 I’m currently learning **C and java**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@judextine28](https://medium.com/@judextine28)
 
-- 💬 Ask me about **Php, nextjs, tailwind CSS and blockchain technology**
+- 💬 Ask me about **Php, nextjs, tailwind CSS**
 
 - 📫 How to reach me **judextine28@gmail.com**
 
