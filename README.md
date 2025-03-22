@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judeotine&label=Profile%20views&color=0e75b6&style=flat" alt="judeotine" /> </p>
   
 
-- 🔭 I’m currently working on **PayChain:** which the future of payments—a decentralized, secure and user-friendly payment system built on the Internet Computer Protocol.
+- 🔭 I’m currently working on **PayChain:** A decentralized, secure and user-friendly payment system built on the Internet Computer Protocol.
 
 - 🌱 I’m currently learning **C and java**
 
