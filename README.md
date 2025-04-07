@@ -13,11 +13,11 @@
 ### 🔥 About Me
 - 🚀 **Full-Stack Engineer** specializing in modern web technologies
 - 🌍 From **Uganda**, building for the global digital landscape
-- 💡 Passionate about **blockchain, open-source, and intuitive design**
+- 💡 Passionate about **Web dev, blockchain, open-source and intuitive design**
 - 🏆 Featured in **Top Ugandan Developers** [![committers.top badge](https://user-badge.committers.top/uganda/judeotine.svg)](https://user-badge.committers.top/uganda/judeotine)
 
 ### 🛠 Current Focus
-- 🔭 Building **PayChain**: Decentralized payment system on ICP
+- 🔭 Building **SpendWise**: An expense and budget planner application.
 - 🌱 Mastering **Systems Programming with C & Java**
 - 📝 Writing about **Web3 & Full-Stack Development** [on Medium](https://medium.com/@judextine28)
 
@@ -73,27 +73,6 @@ There are around 700 programming languages... and I'm determined to master the m
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
-  <p style="margin-top: -60px; color: white; font-weight: bold; font-size: 14px;">"The best way to predict the future is to invent it." - Alan Kay</p>
+  <p style="margin-top: -60px; color: white; font-weight: bold; font-size: 14px;">The best way to predict the future is to invent it.</p>
 </div>
 
-<!-- CSS Animations -->
-<style>
-  /* GitHub supports limited CSS - these animations will work */
-  img[alt="Typing Animation"] {
-    animation: fadeIn 2s ease-in-out;
-  }
-  
-  div[style*="border-left: 4px solid #0ea5e9"] {
-    transition: all 0.3s ease;
-  }
-  
-  div[style*="border-left: 4px solid #0ea5e9"]:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 10px 20px rgba(14, 165, 233, 0.3);
-  }
-  
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-</style>
