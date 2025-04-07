@@ -21,18 +21,6 @@
 - 🌱 Mastering **Systems Programming with C & Java**
 - 📝 Writing about **Web3 & Full-Stack Development** [on Medium](https://medium.com/@judextine28)
 
-### 📬 Let's Connect
-<p align="left">
-  <a href="https://linkedin.com/in/ocenjude" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:judextine28@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://judeotine.vercel.app/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
-</p>
 
 ### 🛠 Tech Stack
 #### Frontend
@@ -68,3 +56,44 @@
 There are around 700 programming languages... and I'm determined to master the most impactful ones!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Connect Section -->
+<h2 align="center">💬 Let's Connect</h2>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://judeotine.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ocenjude)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/judeotine)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jude_otine)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@judextine28)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:judextine28@gmail.com)
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+  <p style="margin-top: -60px; color: white; font-weight: bold; font-size: 14px;">"The best way to predict the future is to invent it." - Alan Kay</p>
+</div>
+
+<!-- CSS Animations -->
+<style>
+  /* GitHub supports limited CSS - these animations will work */
+  img[alt="Typing Animation"] {
+    animation: fadeIn 2s ease-in-out;
+  }
+  
+  div[style*="border-left: 4px solid #0ea5e9"] {
+    transition: all 0.3s ease;
+  }
+  
+  div[style*="border-left: 4px solid #0ea5e9"]:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(14, 165, 233, 0.3);
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+</style>
