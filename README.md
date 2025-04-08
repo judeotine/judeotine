@@ -16,11 +16,11 @@
 - 💡 Passionate about **Web dev, blockchain, open-source and intuitive design**
 - 🏆 Featured in **Top Ugandan Developers** [![committers.top badge](https://user-badge.committers.top/uganda/judeotine.svg)](https://user-badge.committers.top/uganda/judeotine)
 
+
 ### 🛠 Current Focus
 - 🔭 Building **SpendWise**: An expense and budget planner application.
 - 🌱 Mastering **Systems Programming with C & Java**
 - 📝 Writing about **Web3 & Full-Stack Development** [on Medium](https://medium.com/@judextine28)
-
 
 ### 🛠 Tech Stack
 #### Frontend
@@ -41,6 +41,14 @@
 #### DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📝 Latest Medium Articles
+
+[![Medium Articles](https://github-readme-medium-recent-article.vercel.app/medium/@judextine28/0)](https://medium.com/@judextine28)
+[![Medium Articles](https://github-readme-medium-recent-article.vercel.app/medium/@judextine28/1)](https://medium.com/@judextine28)
+[![Medium Articles](https://github-readme-medium-recent-article.vercel.app/medium/@judextine28/2)](https://medium.com/@judextine28)
+
+[Read more on Medium](https://medium.com/@judextine28)
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -75,4 +83,3 @@ There are around 700 programming languages... and I'm determined to master the m
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
   <p style="margin-top: -60px; color: white; font-weight: bold; font-size: 14px;">The best way to predict the future is to invent it.</p>
 </div>
-
