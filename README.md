@@ -10,6 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
 ### 🔥 About Me
 - 🚀 **Full-Stack Engineer** specializing in modern web technologies
 - 🌍 From **Uganda**, building for the global digital landscape
@@ -43,8 +44,18 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🎵 My Spotify Playback
-[![Spotify](https://spotify-now-playing-iota.vercel.app/api/spotify?user_id=4uk7f7tv651jenlteqbdprnjk)](https://open.spotify.com/user/4uk7f7tv651jenlteqbdprnjk)
+### 🎧 My Spotify Activity
+<div style="display: flex; gap: 20px; align-items: center; background: rgba(29, 185, 84, 0.1); padding: 15px; border-radius: 12px; border: 1px solid rgba(29, 185, 84, 0.3);">
+  <div style="flex: 1;">
+    <a href="https://open.spotify.com/user/4uk7f7tv651jenlteqbdprnjk">
+      <img src="https://spotify-github-profile.vercel.app/api/now-playing?uid=4uk7f7tv651jenlteqbdprnjk&cover_image=true&theme=novatorem" width="400" alt="Now Playing">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <h4 style="margin-top: 0;">My Playlists</h4>
+    <img src="https://spotify-github-profile.vercel.app/api/playlist?uid=4uk7f7tv651jenlteqbdprnjk&cover_image=false&theme=novatorem" width="400" alt="Spotify Playlists">
+  </div>
+</div>
 
 <h2 align="center" style="background: linear-gradient(90deg, #6e45e2, #89d4cf); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 1rem 0;">Latest Medium Articles</h2>
 
