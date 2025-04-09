@@ -44,34 +44,27 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🎧 My Spotify Activity
-<div style="display: flex; gap: 20px; align-items: center; background: rgba(29, 185, 84, 0.1); padding: 15px; border-radius: 12px; border: 1px solid rgba(29, 185, 84, 0.3);">
-  <div style="flex: 1;">
-    <a href="https://open.spotify.com/user/4uk7f7tv651jenlteqbdprnjk">
-      <img src="https://spotify-github-profile.vercel.app/api/now-playing?uid=4uk7f7tv651jenlteqbdprnjk&cover_image=true&theme=novatorem" width="400" alt="Now Playing">
-    </a>
-  </div>
-  <div style="flex: 1;">
-    <h4 style="margin-top: 0;">My Playlists</h4>
-    <img src="https://spotify-github-profile.vercel.app/api/playlist?uid=4uk7f7tv651jenlteqbdprnjk&cover_image=false&theme=novatorem" width="400" alt="Spotify Playlists">
-  </div>
-</div>
-
 <h2 align="center" style="background: linear-gradient(90deg, #6e45e2, #89d4cf); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 1rem 0;">Latest Medium Articles</h2>
 
 [![Medium Articles](https://github-readme-medium-recent-article.vercel.app/medium/@judextine28/0)](https://medium.com/@judextine28)
 [![Medium Articles](https://github-readme-medium-recent-article.vercel.app/medium/@judextine28/1)](https://medium.com/@judextine28)
 [![Medium Articles](https://github-readme-medium-recent-article.vercel.app/medium/@judextine28/2)](https://medium.com/@judextine28)
 
-[Read more on Medium](https://medium.com/@judextine28)
-
-### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=judeotine&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=judeotine&theme=radical" />
+  <a href="https://medium.com/@judextine28" target="_blank" style="display: inline-block; padding: 10px 20px; background: #00AB6C; color: white; border-radius: 5px; text-decoration: none; font-weight: bold;">Read More on Medium →</a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=judeotine&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 GitHub Stats
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=judeotine&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=judeotine&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judeotine&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="border-radius: 10px;">
+</div>
+
+<div align="left" style="margin-bottom: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=judeotine&theme=onedark&row=2&column=4&no-frame=true" alt="GitHub Trophies">
+</div>
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
