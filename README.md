@@ -1,17 +1,30 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://judeotine.vercel.app/)
 
 <div align="center">
-  <!-- Animated Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=judeotine&label=Profile+Views&color=0e75b6&style=flat" alt="judeotine" /> 
+  <!-- Profile Metrics -->
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=judeotine&label=Profile+Views&color=0e75b6&style=flat" alt="judeotine">
+    <img src="https://img.shields.io/github/followers/judeotine?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/stars/judeotine?label=Stars+Earned&color=yellow" alt="Stars Earned">
+  </div>
+  <!-- Social Badges -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+    <a href="https://twitter.com/jude_otine" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/jude_otine?style=social" alt="Twitter Follow">
+    </a>
+    <a href="https://dev.to/judeotine" target="_blank">
+      <img src="https://img.shields.io/badge/DEV-Community-blue" alt="DEV Community">
+    </a>
+  </div>
+</div>
   
   <!-- Dynamic Typing SVG with Gradient Text -->
+  <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&duration=2000&color=00FFD1&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jude+Otine;Full-Stack+Engineer;Open-Source+Contributor;UI%2FUX+Enthusiast;Blockchain+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?align=center&font=Fira+Code&size=33&pause=1000&duration=2000&color=FFD700&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jude+Otine;Full-Stack+Developer;Open-Source+Contributor;UI%2FUX+Enthusiast" alt="Typing SVG" />
   </a>
+  </div>
   <h3 align="center" style="margin-top: 10px; background: linear-gradient(90deg, #00FFD1, #0085FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Crafting Scalable Web Solutions with Precision</h3>
-  
-  <!-- GitHub Stats Badge -->
-  <img src="https://img.shields.io/github/followers/judeotine?label=Follow&style=social" alt="GitHub Followers">
 </div>
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 2px solid #00FFD1;">
@@ -39,7 +52,6 @@
   <div style="background: rgba(30, 40, 50, 0.7); padding: 15px; border-radius: 10px; border-top: 3px solid #4ECDC4;">
     <h3>🌱 Learning</h3>
     <p>Mastering <b>Systems Programming</b> with C & Java and <b>Web3 Development</b></p>
-    <img src="https://img.shields.io/badge/Current%20Focus-Rust%20%26%20Solidity-orange" alt="Learning Focus">
   </div>
   
   <div style="background: rgba(30, 40, 50, 0.7); padding: 15px; border-radius: 10px; border-top: 3px solid #45B7D1;">
@@ -53,11 +65,16 @@
 
 ### Frontend
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+</div>
 </div>
 
 ### Backend
@@ -167,15 +184,16 @@
   <a href="https://www.buymeacoffee.com/judeotine" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" style="border-radius: 5px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
-  <a href="https://ko-fi.com/judeotine" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
-  </a>
 </div>
 
-<!-- Spotify Playing -->
-<h2 align="center">🎶 Currently Coding To</h2>
+<!-- Dynamic Spotify Player -->
+<h2 align="center">🎧 Live Spotify Status</h2>
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" width="80%">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=4uk7f7tv651jenlteqbdprnjk&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=4uk7f7tv651jenlteqbdprnjk&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=true" 
+         alt="Spotify Now Playing" 
+         width="400">
+  </a>
 </div>
 
 <div align="center">
