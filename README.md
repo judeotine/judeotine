@@ -45,7 +45,7 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-bottom: 20px;">
   <div style="background: rgba(30, 40, 50, 0.7); padding: 15px; border-radius: 10px; border-top: 3px solid #FF6B6B;">
     <h3>🚧 Current Project</h3>
-    <p>Building <b>SpendWise</b>: An AI-powered expense and budget planner with analytics dashboard.</p>
+    <p>Building <b>MindGrove</b>: An AI-powered research assistant.</p>
     <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Project Status">
   </div>
   
@@ -87,10 +87,8 @@
 
 ### Blockchain & Web3
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum">
-  <img src="https://img.shields.io/badge/IPFS-%23000000.svg?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS">
 </div>
 
 ### Databases & DevOps
