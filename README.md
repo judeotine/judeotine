@@ -51,7 +51,7 @@
   
   <div style="background: rgba(30, 40, 50, 0.7); padding: 15px; border-radius: 10px; border-top: 3px solid #4ECDC4;">
     <h3>🌱 Learning</h3>
-    <p>Mastering <b>Systems Programming</b> with C# & Java and <b>Web3 Development</b></p>
+    <p>Mastering <b>AI Automations using N8N</b></p>
   </div>
   
   <div style="background: rgba(30, 40, 50, 0.7); padding: 15px; border-radius: 10px; border-top: 3px solid #45B7D1;">
