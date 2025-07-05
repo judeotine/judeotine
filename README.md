@@ -45,7 +45,7 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-bottom: 20px;">
   <div style="background: rgba(30, 40, 50, 0.7); padding: 15px; border-radius: 10px; border-top: 3px solid #FF6B6B;">
     <h3>🚧 Current Project</h3>
-    <p>Building <b>Resume builder</b>: An AI powered resume generator & builder.</p>
+    <p>Building <b>Strimy</b>: A ugandan Streaming platform.</p>
     <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Project Status">
   </div>
   
