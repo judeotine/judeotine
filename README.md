@@ -29,33 +29,33 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 2px solid #00FFD1;">
 
-## 🚀 About Me
+## About Me
 
 <div style="background: rgba(20, 30, 40, 0.7); padding: 20px; border-radius: 10px; margin-bottom: 20px; border-left: 4px solid #00FFD1;">
   
-- 🔭 **Full-Stack Engineer** specializing in modern web technologies
-- 🌍 From **Uganda**, building for the global digital landscape
-- 💡 Passionate about **Web dev, blockchain, open-source and intuitive design**
-- 🏆 Featured in **Top Ugandan Developers** [![committers.top badge](https://user-badge.committers.top/uganda/judeotine.svg)](https://user-badge.committers.top/uganda/judeotine)
-- ⚡ Fun Fact: There are ~700 programming languages... I'm mastering the most impactful ones!
+- **Full-Stack Engineer** specializing in modern web technologies
+- From **Uganda**, building for the global digital landscape
+- Passionate about **Web dev, blockchain, open-source and intuitive design**
+- Featured in **Top Ugandan Developers** [![committers.top badge](https://user-badge.committers.top/uganda/judeotine.svg)](https://user-badge.committers.top/uganda/judeotine)
+- Fun Fact: There are ~700 programming languages... I'm mastering the most impactful ones!
 </div>
 
-## 🔥 Current Focus
+## Current Focus
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-bottom: 20px;">
   <div style="background: rgba(30, 40, 50, 0.7); padding: 15px; border-radius: 10px; border-top: 3px solid #FF6B6B;">
-    <h3>🚧 Current Project</h3>
+    <h3>Current Project</h3>
     <p>Building <b>Strimy</b>: A ugandan Streaming platform.</p>
     <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Project Status">
   </div>
   
   <div style="background: rgba(30, 40, 50, 0.7); padding: 15px; border-radius: 10px; border-top: 3px solid #4ECDC4;">
-    <h3>🌱 Learning</h3>
+    <h3>Learning</h3>
     <p>Mastering <b>AI Automations using N8N</b></p>
   </div>
   
   <div style="background: rgba(30, 40, 50, 0.7); padding: 15px; border-radius: 10px; border-top: 3px solid #45B7D1;">
-    <h3>✍️ Writing</h3>
+    <h3>Writing</h3>
     <p>Sharing knowledge about <b>Web3 & Full-Stack Development</b> <a href="https://medium.com/@judextine28">on Medium</a></p>
     <img src="https://img.shields.io/badge/Latest%20Post-Web3%20Basics-blue" alt="Writing Focus">
   </div>
@@ -117,7 +117,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=judeotine&theme=onedark&row=2&column=4&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
 
-## 🎨 Design & Tools
+## Design & Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
@@ -127,7 +127,7 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
 </div>
 
-## ✍️ Latest Articles
+## Latest Articles
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-bottom: 20px;">
   <a href="https://medium.com/@judextine28" target="_blank">
@@ -145,7 +145,7 @@
   <a href="https://medium.com/@judextine28" target="_blank" style="display: inline-block; padding: 10px 20px; background: linear-gradient(90deg, #00AB6C, #0085FF); color: white; border-radius: 5px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s ease;">Read More on Medium →</a>
 </p>
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-bottom: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=judeotine&theme=github_dark" alt="Productive Time">
@@ -153,7 +153,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=judeotine&theme=github_dark" alt="Repos Per Language">
 </div>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
   <a href="https://judeotine.vercel.app" target="_blank" style="text-decoration: none;">
@@ -176,21 +176,11 @@
   </a>
 </div>
 
-## ☕ Support My Work
+## Support My Work
 
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://www.buymeacoffee.com/judeotine" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" style="border-radius: 5px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</div>
-
-<!-- Dynamic Spotify Player -->
-<h2 align="center">🎧 Live Spotify Status</h2>
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=4uk7f7tv651jenlteqbdprnjk&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=4uk7f7tv651jenlteqbdprnjk&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=true" 
-         alt="Spotify Now Playing" 
-         width="400">
   </a>
 </div>
 
