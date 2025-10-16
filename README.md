@@ -61,7 +61,7 @@
   </div>
 </div>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=judeotine&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" style="border-radius: 10px;">
