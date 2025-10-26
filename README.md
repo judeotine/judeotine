@@ -130,19 +130,19 @@
 ## Latest Articles
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-bottom: 20px;">
-  <a href="https://medium.com/@judextine28" target="_blank">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judextine28/0" alt="Medium Article" style="border-radius: 10px; border: 1px solid #444;">
+  <a href="https://judeotine.medium.com" target="_blank">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/0" alt="Medium Article" style="border-radius: 10px; border: 1px solid #444;">
   </a>
-  <a href="https://medium.com/@judextine28" target="_blank">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judextine28/1" alt="Medium Article" style="border-radius: 10px; border: 1px solid #444;">
+  <a href="https://judeotine.medium.com" target="_blank">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/1" alt="Medium Article" style="border-radius: 10px; border: 1px solid #444;">
   </a>
-  <a href="https://medium.com/@judextine28" target="_blank">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judextine28/2" alt="Medium Article" style="border-radius: 10px; border: 1px solid #444;">
+  <a href="https://judeotine.medium.com" target="_blank">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/2" alt="Medium Article" style="border-radius: 10px; border: 1px solid #444;">
   </a>
 </div>
 
 <p align="center">
-  <a href="https://medium.com/@judextine28" target="_blank" style="display: inline-block; padding: 10px 20px; background: linear-gradient(90deg, #00AB6C, #0085FF); color: white; border-radius: 5px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s ease;">Read More on Medium →</a>
+  <a href="https://judeotine.medium.com" target="_blank" style="display: inline-block; padding: 10px 20px; background: linear-gradient(90deg, #00AB6C, #0085FF); color: white; border-radius: 5px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s ease;">Read More on Medium →</a>
 </p>
 
 ## GitHub Achievements
