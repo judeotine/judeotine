@@ -24,7 +24,7 @@
 <!-- Animated Typing Header -->
 <div align="center" style="margin: 30px 0;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?align=center&font=Fira+Code&size=35&pause=1000&duration=2000&color=6366f1&width=500&lines=Hi%2C+I'm+Jude+Otine;Full-Stack+Developer;Blockchain+Enthusiast;Open-Source+Contributor;UI%2FUX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?align=center&font=Fira+Code&size=35&pause=1000&duration=2000&color=6366f1&width=500&lines=Hi%2C+I'm+Jude+Otine;Full-Stack+Developer;UI%2FUX+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
   </a>
   <h3 align="center" style="margin-top: 15px; color: #6366f1; font-size: 24px; font-weight: 600;">
     Crafting Scalable Web Solutions with Precision
