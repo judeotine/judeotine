@@ -158,53 +158,66 @@
 
 <!-- GitHub Analytics Section -->
 <div style="margin: 40px 0;">
-  <h2 style="color: #6366f1; font-size: 32px; font-weight: 700; margin-bottom: 25px; text-align: center;">GitHub Analytics</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
-    <img src="https://github-readme-stats-mu-three-51.vercel.app/api?username=judeotine&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=1e293b&title_color=6366f1&icon_color=8b5cf6&text_color=f1f5f9&border_color=6366f1&cache_bust=20260716b" alt="GitHub Stats" style="border-radius: 15px;" />
-    <img src="https://streak-stats.demolab.com/?user=judeotine&theme=radical&hide_border=true&background=1e293b&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=f1f5f9" alt="GitHub Streak" style="border-radius: 15px;" />
-    <img src="https://github-readme-stats-mu-three-51.vercel.app/api/top-langs/?username=judeotine&layout=compact&theme=radical&hide_border=true&bg_color=1e293b&title_color=6366f1&text_color=f1f5f9&border_color=6366f1&cache_bust=20260716b" alt="Top Languages" style="border-radius: 15px;" />
-  </div>
-</div>
+  <h2 align="center" style="color: #6366f1; font-size: 32px; font-weight: 700; margin-bottom: 25px;">GitHub Analytics</h2>
 
-<!-- GitHub Activity Graph -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=judeotine&theme=react-dark&bg_color=1e293b&hide_border=true&area=true&color=6366f1&line=8b5cf6&point=06b6d4&area_color=6366f1" alt="GitHub Activity Graph" style="width: 100%; border-radius: 15px;" />
-</div>
+  <!-- Stats & Streak — side by side -->
+  <p align="center">
+    <img src="https://github-readme-stats-mu-three-51.vercel.app/api?username=judeotine&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=1e293b&title_color=6366f1&icon_color=8b5cf6&text_color=f1f5f9&border_color=6366f1&cache_bust=20260716b" alt="GitHub Stats" width="49%" />
+    <img src="https://streak-stats.demolab.com/?user=judeotine&theme=radical&hide_border=true&background=1e293b&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=f1f5f9" alt="GitHub Streak" width="49%" />
+  </p>
 
-<!-- GitHub Trophies -->
-<div align="center" style="margin: 40px 0;">
-  <h2 style="color: #6366f1; font-size: 32px; font-weight: 700; margin-bottom: 25px;">GitHub Achievements</h2>
-  <img src="https://github-profile-trophy-chi-drab.vercel.app/?username=judeotine&theme=onedark&row=2&column=4&no-frame=true&margin-w=15&margin-h=15&title_color=6366f1&icon_color=8b5cf6&text_color=f1f5f9&cache_bust=20260716b" alt="GitHub Trophies" />
+  <!-- Top Languages — centered below -->
+  <p align="center">
+    <img src="https://github-readme-stats-mu-three-51.vercel.app/api/top-langs/?username=judeotine&layout=compact&theme=radical&hide_border=true&bg_color=1e293b&title_color=6366f1&text_color=f1f5f9&border_color=6366f1&cache_bust=20260716b" alt="Top Languages" width="60%" />
+  </p>
+
+  <!-- Activity Graph — full width -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=judeotine&theme=react-dark&bg_color=1e293b&hide_border=true&area=true&color=6366f1&line=8b5cf6&point=06b6d4&area_color=6366f1" alt="GitHub Activity Graph" width="100%" />
+  </p>
+
+  <!-- Trophies -->
+  <h3 align="center" style="color: #8b5cf6; font-size: 24px; margin-top: 30px; margin-bottom: 15px;">Achievements</h3>
+  <p align="center">
+    <img src="https://github-profile-trophy-chi-drab.vercel.app/?username=judeotine&theme=onedark&row=2&column=4&no-frame=true&margin-w=15&margin-h=15&title_color=6366f1&icon_color=8b5cf6&text_color=f1f5f9&cache_bust=20260716b" alt="GitHub Trophies" />
+  </p>
 </div>
 
 <!-- Latest Articles Section -->
 <div style="margin: 40px 0;">
-  <h2 style="color: #6366f1; font-size: 32px; font-weight: 700; margin-bottom: 25px; text-align: center;">Latest Articles</h2>
-  <div style="display: flex; flex-direction: column; gap: 25px; margin-bottom: 30px; max-width: 900px; margin-left: auto; margin-right: auto;">
-    <a href="https://judeotine.medium.com" target="_blank" style="text-decoration: none; display: block;">
-      <div style="border-radius: 15px; overflow: hidden; border: 2px solid #6366f1;">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/0" alt="Medium Article 1" style="width: 100%; display: block;" />
-      </div>
-    </a>
-    <a href="https://judeotine.medium.com" target="_blank" style="text-decoration: none; display: block;">
-      <div style="border-radius: 15px; overflow: hidden; border: 2px solid #6366f1;">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/2" alt="Medium Article 2" style="width: 100%; display: block;" />
-      </div>
-    </a>
-     <a href="https://judeotine.medium.com" target="_blank" style="text-decoration: none; display: block;">
-      <div style="border-radius: 15px; overflow: hidden; border: 2px solid #6366f1;">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/3" alt="Medium Article 3" style="width: 100%; display: block;" />
-      </div>
-    </a>
-     <a href="https://judeotine.medium.com" target="_blank" style="text-decoration: none; display: block;">
-      <div style="border-radius: 15px; overflow: hidden; border: 2px solid #6366f1;">
-        <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/4" alt="Medium Article 4" style="width: 100%; display: block;" />
-      </div>
-    </a>
-  </div>
-  <p align="center">
-    <a href="https://judeotine.medium.com" target="_blank" style="background: #6366f1; color: white; padding: 12px 30px; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block;">
-      Read More on Medium →
+  <h2 align="center" style="color: #6366f1; font-size: 32px; font-weight: 700; margin-bottom: 25px;">Latest Articles</h2>
+
+  <!-- 2×2 grid layout -->
+  <table align="center" border="0" cellspacing="0" cellpadding="8" style="border: none;">
+    <tr>
+      <td width="50%">
+        <a href="https://judeotine.medium.com" target="_blank">
+          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/0" alt="Latest Article" width="100%" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://judeotine.medium.com" target="_blank">
+          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/2" alt="Article 2" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://judeotine.medium.com" target="_blank">
+          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/3" alt="Article 3" width="100%" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://judeotine.medium.com" target="_blank">
+          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/4" alt="Article 4" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <p align="center" style="margin-top: 20px;">
+    <a href="https://judeotine.medium.com" target="_blank">
+      <img src="https://img.shields.io/badge/Read_More_on_Medium-6366f1?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium" />
     </a>
   </p>
 </div>
