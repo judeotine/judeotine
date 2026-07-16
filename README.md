@@ -187,33 +187,26 @@
 <div style="margin: 40px 0;">
   <h2 align="center" style="color: #6366f1; font-size: 32px; font-weight: 700; margin-bottom: 25px;">Latest Articles</h2>
 
-  <!-- 2×2 grid layout -->
-  <table align="center" border="0" cellspacing="0" cellpadding="8" style="border: none;">
-    <tr>
-      <td width="50%">
-        <a href="https://judeotine.medium.com" target="_blank">
-          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/0" alt="Latest Article" width="100%" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://judeotine.medium.com" target="_blank">
-          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/2" alt="Article 2" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://judeotine.medium.com" target="_blank">
-          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/3" alt="Article 3" width="100%" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://judeotine.medium.com" target="_blank">
-          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/4" alt="Article 4" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://judeotine.medium.com" target="_blank">
+      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/0" alt="Latest Article" width="90%" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://judeotine.medium.com" target="_blank">
+      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/2" alt="Article 2" width="90%" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://judeotine.medium.com" target="_blank">
+      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/3" alt="Article 3" width="90%" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://judeotine.medium.com" target="_blank">
+      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@judeotine/4" alt="Article 4" width="90%" />
+    </a>
+  </p>
 
   <p align="center" style="margin-top: 20px;">
     <a href="https://judeotine.medium.com" target="_blank">
